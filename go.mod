@@ -1,3 +1,3 @@
-module github.com/dhnikolas/utils/v2
+module github.com/Frame87/module03
 
 go 1.14
